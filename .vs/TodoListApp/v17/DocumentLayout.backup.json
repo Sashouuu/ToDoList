@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Visual Studio Projects\\To-Do-List\\To-Do-List\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFBDF93-2C06-4D00-B1C6-A5FE8ACA4D32}|To-Do-List.csproj|g:\\visual studio projects\\to-do-list\\to-do-list\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDFBDF93-2C06-4D00-B1C6-A5FE8ACA4D32}|To-Do-List.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFBDF93-2C06-4D00-B1C6-A5FE8ACA4D32}|To-Do-List.csproj|g:\\visual studio projects\\to-do-list\\to-do-list\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EDFBDF93-2C06-4D00-B1C6-A5FE8ACA4D32}|To-Do-List.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFBDF93-2C06-4D00-B1C6-A5FE8ACA4D32}|To-Do-List.csproj|g:\\visual studio projects\\to-do-list\\to-do-list\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDFBDF93-2C06-4D00-B1C6-A5FE8ACA4D32}|To-Do-List.csproj|solutionrelative:todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFBDF93-2C06-4D00-B1C6-A5FE8ACA4D32}|To-Do-List.csproj|g:\\visual studio projects\\to-do-list\\to-do-list\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDFBDF93-2C06-4D00-B1C6-A5FE8ACA4D32}|To-Do-List.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "G:\\Visual Studio Projects\\To-Do-List\\To-Do-List\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "G:\\Visual Studio Projects\\To-Do-List\\To-Do-List\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T20:53:02.608Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "G:\\Visual Studio Projects\\To-Do-List\\To-Do-List\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "G:\\Visual Studio Projects\\To-Do-List\\To-Do-List\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T15:31:28.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TodoItem.cs",
+              "DocumentMoniker": "G:\\Visual Studio Projects\\To-Do-List\\To-Do-List\\TodoItem.cs",
+              "RelativeDocumentMoniker": "TodoItem.cs",
+              "ToolTip": "G:\\Visual Studio Projects\\To-Do-List\\To-Do-List\\TodoItem.cs",
+              "RelativeToolTip": "TodoItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T20:54:14.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "G:\\Visual Studio Projects\\To-Do-List\\To-Do-List\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "G:\\Visual Studio Projects\\To-Do-List\\To-Do-List\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T20:52:57.889Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
